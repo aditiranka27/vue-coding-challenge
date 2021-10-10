@@ -1,5 +1,8 @@
 # coding-challenge
 
+![](src//assets//screenshot1.png?raw=true "Title")
+![](src//assets//screenshot2.png?raw=true "Title")
+
 ## Project setup
 ```
 npm install
